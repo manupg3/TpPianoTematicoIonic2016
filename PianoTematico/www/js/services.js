@@ -13,7 +13,7 @@ angular.module('starter.services', [])
     id: 1,
     name: 'Max Lynx',
     lastText: 'Hey, it\'s me',
-    face: 'img/max.png'
+    face: 'imagenes/guitarrahd.png'
   }, {
     id: 2,
     name: 'Adam Bradleyson',
